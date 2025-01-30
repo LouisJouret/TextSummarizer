@@ -35,6 +35,11 @@ source venv/bin/activate  # On macOS/Linux
 pip install -r requirements.txt
 ```
 
+4. Add the parent directory to the Python path before running the training script. You can do this by modifying the `PYTHONPATH` environment variable:
+```bash
+export PYTHONPATH=$(pwd):$PYTHONPATH
+```
+
 ## Running the Application
 
 ```bash
