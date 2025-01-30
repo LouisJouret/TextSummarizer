@@ -5,7 +5,7 @@
  https://opensource.org/licenses/MIT
 -->
 
-# SummarAIze - AI Text Summarizer
+# Text Summarizer
 
 A Python project that uses transformers for text summarization.
 
