@@ -18,8 +18,8 @@ A Python project that uses transformers for text summarization.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/summaraize.git
-cd summaraize
+git clone https://github.com/LouisJouret/TextSummarizer.git
+cd TextSummarizer
 ```
 
 2. Create a virtual environment:
